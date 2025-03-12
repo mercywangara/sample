@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+.dotty{
+    width: 230%;
+    height: 120%;
+}
+
+body{
+    border: solid 1px;
+}
